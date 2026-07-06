@@ -16,6 +16,19 @@
 - cog_engine.py - Runs the project 
 - transactions.csv - Sample transaction data
 
+## Project Architecture
+'''mermaid
+flowchart ID
+    A[generator.py] --> B[transactions.csv]
+    B --> C[analyzer.py]
+    C --> D[geo_analyzer.py]
+    C --> E[Risk-scored account outputs}
+    D -- F[Location-based risk outputs]
+    E --> G[cog_engine.py}
+    F --> G
+    G --> H[COG account rankings]
+'''
+
 ## Technical Skills Demonstrated
 
 - Python
