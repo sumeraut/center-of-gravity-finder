@@ -1,0 +1,9 @@
+accounts_output.csv
+geo_enriched_transactions.csv
+geo_risk_accounts.csv
+high_risk_accounts.csv
+least_20_cog_accounts.csv
+middle_20_cog_accounts.csv
+suspicous_accounts.csv
+top_20_cog_accounts.csv
+
