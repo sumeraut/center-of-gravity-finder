@@ -1,5 +1,8 @@
 # Center of Gravity Finder is a Python project that analyzes synthetic transaction data to identify potentially suspicious accounts using network analysis, risk scoring, network relationships, temporal analysis, and geographic indicators.
 
+# Center of Gravity Finder
+![Center of of Gravity Finder](screenshots/cog-finder-banner.png)
+
 ## Features
 
 - Generates Synthetic financial transaction data
