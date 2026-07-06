@@ -124,3 +124,6 @@ Running thos project genterates several CSV reports:
 - Link the GUI to ArcGIS-compatible outputs so analysts can generate map-ready files directly from the application.
 - Add import/export workflows so the project can exchange data with ArcGIS, FING, spreadsheets, or other investigative or network-analysis tools.
 - Develop dashboard views for top COGaccounts, geographic risk clusters, transaction chains, and time-window alerts.
+
+## License 
+This project is licensed under the MIT License.
